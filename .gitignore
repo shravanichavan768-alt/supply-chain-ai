@@ -27,3 +27,6 @@ mlruns/
 .vscode/
 .idea/
 .DS_Store
+
+ml/data/raw/
+ml/data/*.csv
